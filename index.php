@@ -1,4 +1,12 @@
-<?php
+<!DOCTYPE html>
+<html>
+<body>
 
-echo "<h1>Hello, Northeast PHP";
-echo "<h1><br>Hello, Northeast PHP";
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
